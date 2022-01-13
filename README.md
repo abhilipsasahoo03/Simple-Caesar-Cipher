@@ -2,11 +2,11 @@
 
 A simple Caesar Cipher webpage to encrypt and decrypt your text.
 
-# Caesar Cipher
+## Caesar Cipher
 
 Also known as Shift Cipher involves shifting the letters of the alphabet by 'n' amount to either left or right. The 'n' may vary accordingly.
 
-# About my code
+## About my code
 
 In my project, I assumed the value of 'n' to be 4, and followed the method of encryption and decryption accordingly.
 
